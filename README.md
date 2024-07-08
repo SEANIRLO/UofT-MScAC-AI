@@ -1,2 +1,2 @@
-# UofT-Electrical-and-Computer-Engineering
-Codebase of my M.Eng. Program
+# UofT-MScAC-AI
+Codebase of my M.Sc. in Applied Computing (AI) Program
